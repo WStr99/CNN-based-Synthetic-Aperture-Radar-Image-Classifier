@@ -1,5 +1,5 @@
 # CNN-based-Synthetic-Aperture-Radar-image-classifier
-This project focuses on detecting and classifying Soviet military vehicles in Synthetic Aperture Radar (SAR) images using the YOLOv8 object detection framework. The data originates from U.S. military satellite-based SAR systems and is annotated in PASCAL VOC format, which is converted to YOLO format for training.
+This project focuses on detecting and classifying Soviet military vehicles in Synthetic Aperture Radar (SAR) images using the YOLOv8 object detection framework. It is strained using the MSTAR dataset from U.S. military satellite-based SAR systems and is annotated in PASCAL VOC format, which is converted to YOLO format for training.
 
 The MSTAR dataset is a well-established benchmark for SAR-based target recognition, consisting of high-resolution radar images of ground vehicles under various configurations, depression angles, and conditions.
 https://www.sdms.afrl.af.mil/index.php?collection=mstar 
