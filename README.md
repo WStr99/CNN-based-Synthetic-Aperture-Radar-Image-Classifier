@@ -22,6 +22,7 @@ https://www.sdms.afrl.af.mil/index.php?collection=mstar
 # Model Performance
 F1-Confidence Curve
 The model achieves its optimal mean F1-score of 0.92 at a confidence threshold of 0.474, indicating high-quality detection across most classes. Each class's individual F1 trajectory shows strong confidence separation, especially above 0.3 confidence levels.
+
 <img width="2250" height="1500" alt="F1_curve" src="https://github.com/user-attachments/assets/117cdbcf-4a6d-43bf-a3ec-4fd185602578" />
 
 # Confusion Matrix (Normalized)
@@ -29,6 +30,7 @@ The normalized confusion matrix shows that the model performs well across most c
 - Class 0, 2, 3, 5, and 6 achieve ~100% accuracy
 - Class 1 exhibits confusion with classes 9 and 7
 - Background false positives are minimal
+
 <img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/d0486ec9-f34a-40b9-8a8e-aa63f794a6c7" />
 
 # Workflow
