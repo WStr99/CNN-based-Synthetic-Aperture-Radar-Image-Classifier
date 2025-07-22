@@ -6,10 +6,10 @@ https://www.sdms.afrl.af.mil/index.php?collection=mstar
 
 # Labels
 ![val_batch0_labels](https://github.com/user-attachments/assets/4769146c-8815-43fd-ba3b-89a7912a2840)
-![val_batch0_pred](https://github.com/user-attachments/assets/339385af-8335-4f29-9ab5-245fec568df7)
+![val_batch2_labels](https://github.com/user-attachments/assets/be4b5b50-4396-4706-9d64-6f543f8a259b)
 
 # Predictions
-![val_batch2_labels](https://github.com/user-attachments/assets/be4b5b50-4396-4706-9d64-6f543f8a259b)
+![val_batch0_pred](https://github.com/user-attachments/assets/339385af-8335-4f29-9ab5-245fec568df7)
 ![val_batch2_pred](https://github.com/user-attachments/assets/3d78848f-d002-4617-8722-9265c6e310c0)
 
 # Project Overview
